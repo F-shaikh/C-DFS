@@ -1,7 +1,3 @@
-// Faisal Shaikh
-// Fshaikh1
-// PA5
-
 #include "List.h"
 #include<stdio.h>
 #include<stdlib.h>
@@ -46,4 +42,4 @@ void add(Graph G, List L, int x);
 Graph transpose(Graph G);
 Graph copyGraph(Graph G);
 void VISIT(Graph G, List S, int *time, int u);
-#endif //PA5_GRAPH_H
+#endif
