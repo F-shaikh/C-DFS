@@ -1,0 +1,12 @@
+Faisal Shaikh
+Fshaikh1
+PA5
+
+List.h           ... Contains function headers for List.c.
+List.c           ... Contains class List. Creates a doubly linked list with manipulation functions and access functions to be used on the list. 
+Graph.h          ... Contains function headers for Graph.c.
+Graph.c          ... Contains defintions of a struct called GraphObj. Creates a Graph with manipulation/access functions and implements the DFS & BFS algorithm. 
+GraphTest.c      ... Contains tests for Graph operations in isolation.
+FindComponents.c ... Contains a client program for Graph ADT that takes two command line arguments. Assembles Graph, runs DFS, and prints out SCC's in topologically sorted order.
+Makefile         ... Complies all .c files and creates the executable file, called FindComponents in this case. 
+README           ... Contains README.
